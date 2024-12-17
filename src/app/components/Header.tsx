@@ -35,6 +35,7 @@ const Header = () => {
                     <AiOutlineShoppingCart className="w-[24.53px] h-[22.06px] stroke-[2px]" />
                 </div>
             </div>
+
         </Fragment>
     )
 }
